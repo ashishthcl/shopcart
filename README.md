@@ -1,0 +1,4 @@
+shopcart
+========
+
+Spring MVC Application
